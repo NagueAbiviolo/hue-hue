@@ -8,3 +8,6 @@ do
   end if
   WScript.Sleep 60000
 loop
+
+
+' Win + r  :  taskkill /f /im wscript.exe
