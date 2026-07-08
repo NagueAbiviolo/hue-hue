@@ -23,5 +23,5 @@ Exclua a pasta depois de executar pra não deixar pistas... mas ela continua exe
 Abra o executar com: **Win + R**
 
 ```
-taskkill /f /im wscript.exe
+taskkill /f /im wscript.exe & taskkill /f /im cscript.exe
 ```
