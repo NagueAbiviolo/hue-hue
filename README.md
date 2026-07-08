@@ -4,15 +4,15 @@ Cada arquivo contém uma **trolagi** pra fazer no PC do seu amigo.
 
 ## 📋 Como usar
 
-1. Clone o repositório **na raiz da máquina**
+1. Clone o repositório **na raiz da máquina** (pasta C:)
 2. Execute um dos códigos e veja a mágica acontecer
 3. 🚨 Não execute mais de um por vez (nem eu sei como parar)
 
 ## 📁 Arquivos disponíveis
 
-- `audio.vbs` - Audio trolling (precisa da pasta pra funcionar)
-- `disco.vbs` - Efeito disco malandro
-- `video.vbs` - Video trolling
+- `audio.vbs` - Fica tocando um audio bizarro a cada 5 min (precisa da pasta pra funcionar) kkkkkk
+- `disco.vbs` - Leitor de disco fica abrindo sem parar kkkkkkkkkkkkkkkkkkk
+- `video.vbs` - Fica abrindo um vídeo neymar skils kkkkkkkkkkkkkkkkkkkkkk
 
 ## 🤓 Dica extra pro verdadeiro zoeiro
 
