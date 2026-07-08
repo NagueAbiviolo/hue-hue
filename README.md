@@ -14,7 +14,7 @@ Cada arquivo contém uma **trolagi** pra fazer no PC do seu amigo.
 - `disco.vbs` - Leitor de disco fica abrindo sem parar kkkkkkkkkkkkkkkkkkk
 - `video.vbs` - Fica abrindo um vídeo neymar skils kkkkkkkkkkkkkkkkkkkkkk
 
-## 🤓 Dica extra pro verdadeiro zoeiro
+## 🤓 Se quiser pesar a mão na trolagi
 
 Exclua a pasta depois de executar pra não deixar pistas... mas ela continua executando mesmo assim!
 
